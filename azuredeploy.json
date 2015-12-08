@@ -6,6 +6,7 @@
       "type": "string",
       "metadata": {
         "description": "The name of the new lab instance to be created."
+      }
       },
       "labVmShutDownHour":
       {
@@ -40,7 +41,6 @@
           "description": "VM sizes that are allowed in the lab."
         }
       }
-    }
   },
   "resources": [
     {
